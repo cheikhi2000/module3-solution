@@ -1,0 +1,38 @@
+h1{
+    margin: 3%;
+}
+h2{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    margin-bottom: 50px;
+
+}
+h4{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.cont{
+    background-color: gray;
+    margin:0 2%;
+   
+}
+
+
+p{
+    margin: 10px;
+    font-weight: bold;
+    font-size: 1
+    5px;
+}
+nav{
+    background-color: gray;
+    font-weight: bold;
+    
+}
+button:focus{
+    background-color: white;
+}
+
